@@ -10,6 +10,7 @@ System.out.println();
 b.speak();
 b.athletic();
 System.out.println();
+System.out.println();
 br.speak();
 
 
